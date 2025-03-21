@@ -32,5 +32,7 @@ This project analyzes and visualizes stock market data using **SQL** and **Power
 - **Cash Turnover**
 
 ## 🛠️ Tech Stack
+- **Excel** (Data Cleaning)
 - **SQL** (Data extraction and transformation)
 - **Power BI** (Data visualization & reporting)
+
